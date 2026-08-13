@@ -95,11 +95,11 @@ platform data (6 months of operations, Jan–Jun 2026), across 4 linked tables:
 
 | | |
 |---|---|
-| ![Monthly Revenue](01_monthly_revenue_trend.png) | ![Orders by Day](charts/02_orders_by_day_of_week.png) |
-| ![Peak Hours](charts/03_orders_by_hour.png) | ![Revenue by City](charts/04_revenue_by_city.png) |
-| ![Food vs Grocery](charts/05_food_vs_grocery_share.png) | ![Delivery Time](charts/06_delivery_time_distribution.png) |
-| ![Cancellations](charts/07_cancellation_reasons.png) | ![Payment Methods](charts/08_payment_methods.png) |
-| ![Rating vs Delay](charts/09_rating_vs_delay.png) | ![Top Outlets](charts/10_top_outlets_by_revenue.png) |
+| ![Monthly Revenue](01_monthly_revenue_trend.png) | ![Orders by Day](02_orders_by_day_of_week.png) |
+| ![Peak Hours](03_orders_by_hour.png) | ![Revenue by City](04_revenue_by_city.png) |
+| ![Food vs Grocery](05_food_vs_grocery_share.png) | ![Delivery Time](06_delivery_time_distribution.png) |
+| ![Cancellations](07_cancellation_reasons.png) | ![Payment Methods](08_payment_methods.png) |
+| ![Rating vs Delay](charts/09_rating_vs_delay.png) | ![Top Outlets](10_top_outlets_by_revenue.png) |
 
 All 10 charts are saved individually in the [`charts/`](charts) folder.
 

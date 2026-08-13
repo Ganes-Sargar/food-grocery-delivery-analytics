@@ -95,7 +95,7 @@ platform data (6 months of operations, Jan–Jun 2026), across 4 linked tables:
 
 | | |
 |---|---|
-| ![Monthly Revenue](charts/01_monthly_revenue_trend.png) | ![Orders by Day](charts/02_orders_by_day_of_week.png) |
+| ![Monthly Revenue](01_monthly_revenue_trend.png) | ![Orders by Day](charts/02_orders_by_day_of_week.png) |
 | ![Peak Hours](charts/03_orders_by_hour.png) | ![Revenue by City](charts/04_revenue_by_city.png) |
 | ![Food vs Grocery](charts/05_food_vs_grocery_share.png) | ![Delivery Time](charts/06_delivery_time_distribution.png) |
 | ![Cancellations](charts/07_cancellation_reasons.png) | ![Payment Methods](charts/08_payment_methods.png) |

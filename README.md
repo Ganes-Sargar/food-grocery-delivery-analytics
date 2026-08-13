@@ -99,7 +99,7 @@ platform data (6 months of operations, Jan–Jun 2026), across 4 linked tables:
 | ![Peak Hours](03_orders_by_hour.png) | ![Revenue by City](04_revenue_by_city.png) |
 | ![Food vs Grocery](05_food_vs_grocery_share.png) | ![Delivery Time](06_delivery_time_distribution.png) |
 | ![Cancellations](07_cancellation_reasons.png) | ![Payment Methods](08_payment_methods.png) |
-| ![Rating vs Delay](charts/09_rating_vs_delay.png) | ![Top Outlets](10_top_outlets_by_revenue.png) |
+| ![Rating vs Delay](09_rating_vs_delay.png) | ![Top Outlets](10_top_outlets_by_revenue.png) |
 
 All 10 charts are saved individually in the [`charts/`](charts) folder.
 

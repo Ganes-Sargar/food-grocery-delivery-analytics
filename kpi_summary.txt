@@ -1,0 +1,13 @@
+FOOD & GROCERY DELIVERY ANALYTICS - KPI SUMMARY
+=======================================================
+
+total_orders: 18000
+total_revenue: 9336070.9
+avg_order_value: 574.6
+cancellation_rate_pct: 6.71
+return_rate_pct: 3.02
+avg_delivery_time_min: 32.62
+on_time_delivery_rate_pct: 79.92
+avg_customer_rating: 4.22
+food_vs_grocery_split_pct: {'Food Delivery': 58.81, 'Grocery': 41.19}
+premium_member_share_pct: 26.75

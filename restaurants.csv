@@ -1,0 +1,181 @@
+restaurant_id,outlet_type,outlet_name,city,primary_category,avg_prep_time_min,partner_since
+OUT0001,Food Delivery,Spice Cafe,Ahmedabad,Biryani,29,2023-01-25
+OUT0002,Food Delivery,Metro Store,Delhi,Desserts,32,2024-01-02
+OUT0003,Food Delivery,Metro Store,Hyderabad,Beverages,25,2023-03-28
+OUT0004,Grocery,Urban Bites,Chennai,Bakery,11,2022-06-06
+OUT0005,Food Delivery,Spice Store,Lucknow,Biryani,19,2023-01-06
+OUT0006,Grocery,Urban Store,Ahmedabad,Personal Care,14,2024-07-05
+OUT0007,Food Delivery,Spice Grill,Ahmedabad,Street Food,20,2023-08-27
+OUT0008,Grocery,Golden Corner,Hyderabad,Beverages,14,2023-08-07
+OUT0009,Food Delivery,Punjab Treats,Jaipur,Chinese,15,2024-08-15
+OUT0010,Grocery,Sunrise Bazaar,Pune,Fruits & Vegetables,10,2024-10-17
+OUT0011,Food Delivery,City Cafe,Jaipur,Biryani,20,2023-06-21
+OUT0012,Grocery,Urban Corner,Kolkata,Staples,14,2024-02-09
+OUT0013,Grocery,Urban Store,Chennai,Fruits & Vegetables,5,2023-03-22
+OUT0014,Grocery,Sunrise Bazaar,Pune,Beverages,14,2022-09-26
+OUT0015,Food Delivery,Green Store,Delhi,North Indian,27,2023-07-10
+OUT0016,Grocery,Royal Basket,Ahmedabad,Bakery,7,2024-04-10
+OUT0017,Food Delivery,Spice Corner,Chennai,Beverages,31,2025-02-21
+OUT0018,Food Delivery,Sunrise Express,Bengaluru,Biryani,12,2024-07-02
+OUT0019,Grocery,Green Treats,Kolkata,Staples,9,2024-01-15
+OUT0020,Food Delivery,Royal Cafe,Lucknow,Chinese,31,2023-12-18
+OUT0021,Food Delivery,City Foods,Kolkata,South Indian,30,2024-06-21
+OUT0022,Food Delivery,Metro Bites,Chennai,Italian,23,2024-10-25
+OUT0023,Grocery,Golden House,Delhi,Staples,6,2022-06-12
+OUT0024,Food Delivery,Punjab Corner,Ahmedabad,Fast Food,23,2022-12-26
+OUT0025,Food Delivery,Spice House,Mumbai,Beverages,14,2022-11-12
+OUT0026,Food Delivery,Village Foods,Mumbai,North Indian,30,2024-10-25
+OUT0027,Grocery,Urban Corner,Chennai,Staples,11,2023-03-21
+OUT0028,Food Delivery,Urban Cafe,Hyderabad,Bakery,34,2024-11-27
+OUT0029,Grocery,Sunrise Bites,Jaipur,Household Essentials,14,2023-11-01
+OUT0030,Food Delivery,South Mart,Kolkata,Biryani,32,2022-08-17
+OUT0031,Grocery,City Bites,Delhi,Snacks,12,2023-08-08
+OUT0032,Grocery,The Store,Kolkata,Snacks,14,2023-12-29
+OUT0033,Food Delivery,Punjab Kitchen,Bengaluru,Italian,28,2024-02-04
+OUT0034,Food Delivery,Spice Bazaar,Mumbai,Bakery,29,2025-01-18
+OUT0035,Grocery,Village Kitchen,Ahmedabad,Personal Care,8,2024-10-16
+OUT0036,Food Delivery,The Kitchen,Bengaluru,Biryani,28,2024-08-20
+OUT0037,Food Delivery,Golden Corner,Ahmedabad,Bakery,34,2024-08-07
+OUT0038,Grocery,Fresh Grill,Kolkata,Fruits & Vegetables,13,2024-04-13
+OUT0039,Grocery,Urban Bazaar,Delhi,Personal Care,11,2022-08-16
+OUT0040,Food Delivery,Spice Treats,Mumbai,Bakery,29,2022-07-18
+OUT0041,Food Delivery,Sunrise Store,Kolkata,Bakery,32,2024-07-06
+OUT0042,Food Delivery,City Mart,Mumbai,Chinese,24,2022-08-21
+OUT0043,Food Delivery,Fresh Dhaba,Chennai,Bakery,12,2024-11-11
+OUT0044,Grocery,Tasty Dhaba,Lucknow,Staples,11,2024-05-21
+OUT0045,Grocery,Fresh Store,Lucknow,Bakery,8,2022-12-26
+OUT0046,Grocery,Tasty Cafe,Ahmedabad,Beverages,11,2023-08-19
+OUT0047,Food Delivery,Village Bites,Kolkata,Chinese,25,2025-01-26
+OUT0048,Food Delivery,South Corner,Pune,Desserts,26,2024-01-17
+OUT0049,Food Delivery,Royal Treats,Mumbai,North Indian,28,2023-11-04
+OUT0050,Food Delivery,Metro Kitchen,Mumbai,South Indian,20,2022-06-29
+OUT0051,Grocery,Urban Dhaba,Pune,Fruits & Vegetables,11,2023-03-31
+OUT0052,Food Delivery,Sunrise Treats,Hyderabad,Italian,14,2025-02-18
+OUT0053,Food Delivery,Spice Express,Kolkata,Bakery,14,2023-09-08
+OUT0054,Grocery,Royal House,Pune,Staples,9,2023-10-15
+OUT0055,Grocery,Village Cafe,Lucknow,Fruits & Vegetables,11,2023-08-20
+OUT0056,Grocery,Sunrise Bazaar,Mumbai,Bakery,13,2024-02-18
+OUT0057,Grocery,Green Corner,Lucknow,Fruits & Vegetables,12,2023-10-03
+OUT0058,Food Delivery,Royal Treats,Kolkata,Biryani,16,2024-07-20
+OUT0059,Food Delivery,Golden Kitchen,Delhi,Bakery,25,2023-08-02
+OUT0060,Food Delivery,Tasty Dhaba,Delhi,Italian,32,2023-12-11
+OUT0061,Food Delivery,Green Foods,Ahmedabad,Chinese,23,2023-05-25
+OUT0062,Grocery,Sunrise Cafe,Lucknow,Personal Care,5,2025-01-15
+OUT0063,Food Delivery,City Foods,Lucknow,Chinese,33,2022-08-30
+OUT0064,Food Delivery,The House,Lucknow,Biryani,18,2022-07-23
+OUT0065,Food Delivery,Tasty Foods,Hyderabad,North Indian,13,2024-05-30
+OUT0066,Food Delivery,Golden Basket,Lucknow,North Indian,13,2024-10-07
+OUT0067,Grocery,Sunrise Dhaba,Delhi,Snacks,14,2024-01-10
+OUT0068,Food Delivery,City Treats,Hyderabad,Bakery,33,2022-12-21
+OUT0069,Grocery,Sunrise Basket,Ahmedabad,Snacks,7,2023-12-08
+OUT0070,Food Delivery,The Grill,Chennai,South Indian,24,2022-11-03
+OUT0071,Food Delivery,Spice Express,Bengaluru,Beverages,13,2022-06-02
+OUT0072,Grocery,Spice Dhaba,Ahmedabad,Personal Care,5,2023-05-23
+OUT0073,Grocery,Punjab Corner,Jaipur,Dairy & Eggs,10,2024-09-02
+OUT0074,Food Delivery,Metro Bazaar,Hyderabad,Biryani,13,2023-12-21
+OUT0075,Food Delivery,City Kitchen,Delhi,Street Food,15,2024-08-10
+OUT0076,Food Delivery,Tasty Kitchen,Delhi,Bakery,14,2025-02-07
+OUT0077,Grocery,Sunrise Mart,Kolkata,Dairy & Eggs,9,2022-07-28
+OUT0078,Grocery,Fresh Bazaar,Mumbai,Personal Care,11,2023-02-09
+OUT0079,Grocery,City Store,Lucknow,Beverages,10,2022-11-27
+OUT0080,Food Delivery,Green Bites,Delhi,Biryani,19,2023-10-06
+OUT0081,Food Delivery,The Treats,Lucknow,Chinese,18,2024-03-30
+OUT0082,Food Delivery,The Express,Pune,Chinese,13,2022-07-05
+OUT0083,Grocery,Golden Kitchen,Mumbai,Household Essentials,8,2022-08-14
+OUT0084,Food Delivery,Urban Store,Pune,Desserts,13,2024-12-30
+OUT0085,Food Delivery,Green Bites,Lucknow,Biryani,21,2023-03-16
+OUT0086,Food Delivery,Spice Dhaba,Hyderabad,Chinese,33,2023-06-06
+OUT0087,Grocery,Village Treats,Jaipur,Personal Care,11,2024-01-08
+OUT0088,Grocery,Fresh Store,Mumbai,Staples,7,2023-04-25
+OUT0089,Food Delivery,Tasty House,Hyderabad,Bakery,27,2024-01-11
+OUT0090,Food Delivery,City Bites,Delhi,Chinese,22,2024-07-06
+OUT0091,Food Delivery,South Bites,Jaipur,Street Food,22,2024-07-16
+OUT0092,Food Delivery,Punjab Grill,Chennai,Fast Food,23,2025-02-23
+OUT0093,Food Delivery,Metro Bazaar,Delhi,Fast Food,27,2023-03-31
+OUT0094,Grocery,Fresh Bites,Bengaluru,Snacks,12,2023-12-31
+OUT0095,Grocery,South Foods,Ahmedabad,Snacks,11,2023-01-07
+OUT0096,Food Delivery,Spice Express,Mumbai,North Indian,25,2025-02-03
+OUT0097,Food Delivery,Metro Grill,Bengaluru,Bakery,24,2022-11-11
+OUT0098,Food Delivery,The Cafe,Lucknow,Street Food,31,2023-09-23
+OUT0099,Food Delivery,Green Bazaar,Mumbai,Bakery,34,2023-08-29
+OUT0100,Food Delivery,Tasty Basket,Ahmedabad,North Indian,14,2023-06-10
+OUT0101,Grocery,Fresh Store,Mumbai,Snacks,14,2023-01-06
+OUT0102,Grocery,Village Store,Hyderabad,Personal Care,8,2024-04-14
+OUT0103,Food Delivery,Tasty Corner,Pune,Bakery,12,2023-02-09
+OUT0104,Grocery,Golden Cafe,Kolkata,Staples,9,2024-05-22
+OUT0105,Grocery,The Bites,Hyderabad,Dairy & Eggs,6,2022-12-05
+OUT0106,Food Delivery,The Grill,Ahmedabad,Desserts,13,2022-12-08
+OUT0107,Grocery,Sunrise Basket,Mumbai,Snacks,13,2023-06-24
+OUT0108,Food Delivery,South Bites,Hyderabad,Biryani,13,2023-01-01
+OUT0109,Food Delivery,Urban Bites,Pune,South Indian,10,2023-06-10
+OUT0110,Food Delivery,Urban House,Bengaluru,Italian,30,2022-08-25
+OUT0111,Grocery,Golden Corner,Hyderabad,Personal Care,10,2023-09-17
+OUT0112,Grocery,Fresh Bites,Lucknow,Personal Care,9,2024-02-08
+OUT0113,Food Delivery,Punjab Corner,Bengaluru,Chinese,14,2024-09-21
+OUT0114,Food Delivery,Sunrise Dhaba,Ahmedabad,South Indian,11,2024-08-16
+OUT0115,Food Delivery,Golden Cafe,Bengaluru,Biryani,21,2023-11-13
+OUT0116,Grocery,Golden Cafe,Mumbai,Bakery,10,2022-07-17
+OUT0117,Food Delivery,Village Bites,Jaipur,North Indian,26,2022-08-04
+OUT0118,Grocery,Royal Grill,Jaipur,Beverages,11,2025-01-18
+OUT0119,Food Delivery,Sunrise Mart,Chennai,Italian,20,2023-09-18
+OUT0120,Food Delivery,Green Bazaar,Lucknow,Italian,13,2022-10-24
+OUT0121,Food Delivery,City Store,Mumbai,South Indian,14,2025-01-01
+OUT0122,Food Delivery,South Kitchen,Ahmedabad,Biryani,15,2024-08-06
+OUT0123,Food Delivery,The Bazaar,Delhi,Fast Food,20,2023-06-17
+OUT0124,Food Delivery,Village Corner,Jaipur,South Indian,10,2022-08-05
+OUT0125,Food Delivery,Urban Bites,Ahmedabad,North Indian,34,2023-10-30
+OUT0126,Food Delivery,City Dhaba,Bengaluru,North Indian,19,2022-09-01
+OUT0127,Food Delivery,Tasty Express,Hyderabad,Street Food,29,2024-10-12
+OUT0128,Food Delivery,Punjab Kitchen,Jaipur,Desserts,33,2023-07-31
+OUT0129,Grocery,Metro Cafe,Mumbai,Household Essentials,10,2023-09-11
+OUT0130,Food Delivery,Green Bazaar,Jaipur,Chinese,20,2022-09-02
+OUT0131,Grocery,Urban Kitchen,Pune,Household Essentials,12,2024-02-08
+OUT0132,Food Delivery,Fresh Bazaar,Pune,Desserts,26,2022-10-11
+OUT0133,Food Delivery,Golden Treats,Pune,Street Food,17,2023-08-08
+OUT0134,Food Delivery,City Treats,Lucknow,Biryani,22,2023-05-07
+OUT0135,Food Delivery,The Bites,Jaipur,Beverages,29,2023-04-10
+OUT0136,Grocery,Golden Bites,Chennai,Household Essentials,5,2024-01-12
+OUT0137,Food Delivery,Sunrise Basket,Ahmedabad,South Indian,31,2022-12-29
+OUT0138,Food Delivery,Urban Bites,Pune,Desserts,25,2023-11-02
+OUT0139,Food Delivery,Spice Kitchen,Bengaluru,Bakery,11,2022-11-06
+OUT0140,Grocery,Village Basket,Mumbai,Staples,9,2023-02-23
+OUT0141,Grocery,The Grill,Lucknow,Snacks,8,2024-03-22
+OUT0142,Food Delivery,The Bazaar,Kolkata,Desserts,12,2024-10-09
+OUT0143,Food Delivery,Fresh Corner,Pune,South Indian,31,2025-01-13
+OUT0144,Grocery,Metro Mart,Ahmedabad,Fruits & Vegetables,8,2024-01-24
+OUT0145,Grocery,Metro Bites,Bengaluru,Beverages,14,2024-06-17
+OUT0146,Food Delivery,South Foods,Mumbai,North Indian,15,2023-09-17
+OUT0147,Food Delivery,Green Bazaar,Hyderabad,Biryani,28,2024-08-09
+OUT0148,Grocery,Royal Kitchen,Delhi,Beverages,13,2023-07-15
+OUT0149,Grocery,Royal Dhaba,Bengaluru,Dairy & Eggs,7,2023-09-17
+OUT0150,Food Delivery,Metro House,Chennai,South Indian,23,2023-05-22
+OUT0151,Food Delivery,Sunrise Grill,Bengaluru,Biryani,15,2024-04-10
+OUT0152,Grocery,Royal Bazaar,Bengaluru,Snacks,11,2022-12-10
+OUT0153,Grocery,Village Basket,Chennai,Household Essentials,10,2024-04-29
+OUT0154,Grocery,Tasty Bites,Hyderabad,Snacks,9,2023-02-26
+OUT0155,Grocery,Spice House,Lucknow,Dairy & Eggs,12,2022-09-22
+OUT0156,Food Delivery,Spice Grill,Jaipur,Beverages,25,2024-11-13
+OUT0157,Grocery,South Express,Mumbai,Dairy & Eggs,11,2023-11-05
+OUT0158,Food Delivery,Village Store,Bengaluru,Biryani,20,2022-07-25
+OUT0159,Grocery,Fresh House,Bengaluru,Bakery,9,2024-07-09
+OUT0160,Food Delivery,Spice Express,Chennai,North Indian,14,2022-08-04
+OUT0161,Grocery,Metro Express,Ahmedabad,Household Essentials,7,2025-02-15
+OUT0162,Food Delivery,Urban Corner,Bengaluru,Chinese,30,2024-04-14
+OUT0163,Food Delivery,The Grill,Bengaluru,Bakery,15,2023-02-27
+OUT0164,Food Delivery,Green Cafe,Chennai,Street Food,11,2023-10-15
+OUT0165,Grocery,Golden Grill,Ahmedabad,Snacks,14,2024-03-23
+OUT0166,Grocery,Spice Foods,Chennai,Fruits & Vegetables,7,2023-05-28
+OUT0167,Grocery,South Foods,Lucknow,Dairy & Eggs,12,2022-10-24
+OUT0168,Food Delivery,The Mart,Bengaluru,Biryani,13,2024-12-29
+OUT0169,Food Delivery,Green House,Pune,Italian,33,2022-12-26
+OUT0170,Grocery,Fresh Treats,Mumbai,Staples,7,2023-03-13
+OUT0171,Grocery,Golden Kitchen,Ahmedabad,Household Essentials,10,2022-06-10
+OUT0172,Grocery,Royal Cafe,Pune,Beverages,11,2024-06-08
+OUT0173,Grocery,Fresh Grill,Chennai,Beverages,5,2022-12-03
+OUT0174,Grocery,Fresh Dhaba,Bengaluru,Beverages,11,2023-12-26
+OUT0175,Food Delivery,Metro Basket,Chennai,Italian,20,2024-01-18
+OUT0176,Grocery,Punjab Dhaba,Jaipur,Dairy & Eggs,9,2023-09-07
+OUT0177,Food Delivery,Metro Basket,Jaipur,North Indian,10,2022-10-12
+OUT0178,Grocery,Punjab Basket,Lucknow,Household Essentials,8,2024-09-12
+OUT0179,Grocery,Spice Express,Bengaluru,Bakery,8,2024-08-17
+OUT0180,Food Delivery,Sunrise Store,Bengaluru,Chinese,31,2022-11-18

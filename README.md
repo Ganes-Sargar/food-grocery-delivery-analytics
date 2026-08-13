@@ -178,9 +178,9 @@ All 10 charts are saved individually in the [`charts/`](charts) folder.
 
 ## 👤 Author
 
-**Your Name Here**
-📧 your.email@example.com
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) • [GitHub](https://github.com/your-username)
+**Ganesh Laxman Sargar**
+📧 Ganeshsargar2023@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/ganesh-sargar-319386298/) • [GitHub](https://github.com/Ganes-Sargar)
 
 ---
 

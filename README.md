@@ -134,7 +134,7 @@ All 10 charts are saved individually in the [`charts/`](charts) folder.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/food-grocery-delivery-analytics.git
+   git clone https://github.com/<Genes-Sargar>/food-grocery-delivery-analytics.git
    cd food-grocery-delivery-analytics
    ```
 
